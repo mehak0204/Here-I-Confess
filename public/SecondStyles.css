@@ -1,0 +1,95 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+body{
+  font-family: cursive;
+   overflow: hidden;
+}
+.logoMain{
+  position: absolute;
+margin-top: 9px;
+margin-left: -48px;
+}
+.bodyFooter{
+color: #C7BEA2;
+  position: absolute;
+  bottom: 0;
+  left: 41%;
+}
+.bodyFooter hr{
+  margin-left: -151px;
+    width: 167%;
+    height: 2px;
+    background-color: grey;
+}
+.details{
+  margin-top: -8px;
+margin-left:-100px;
+}
+
+.bodyFooter i{
+  padding-right: 5px;
+  margin-left: 6px;
+}
+
+.space {
+  margin-right: 9px;
+  width: 203px;
+}
+.titleName{
+      margin-left: 7%;
+  letter-spacing: 0px;
+    font-size: 26px;
+    font-weight: 400;
+    font-family: cursive;
+}
+.username{
+width: 214px;
+}
+.content{
+  margin-left: 6%;
+    color: black;
+    position: absolute;
+    height: 113%;
+    width: 56%;
+    margin-top: 8%;
+
+}
+.heading{
+  margin-left: 147px;
+    position: absolute;
+    font-size: 56px;
+}
+.para{
+  width: 342px;
+
+      margin-top: 117px;
+      margin-left: 172px;
+  }
+.signUpBlock{
+  margin-top: 143px;
+      margin-left: 64%;
+      position: absolute;
+
+      width: 26%;
+      font-size: 22px;
+
+}
+.signUp{
+  color: black;
+    font-size: 25px;
+    text-decoration: underline;
+    font-weight: 700;
+    padding-left: 0px;
+}
+.secondMain{
+  position: absolute;
+  margin-left: 56%;
+    margin-top: 19%;
+}
+.register{
+  margin-left: -2px;
+      padding-left: 22px;
+      margin-top: 3px;
+}
